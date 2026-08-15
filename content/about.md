@@ -75,9 +75,9 @@ Interested in helping out with outreach, events, training or communications? [Ge
 
 - **Email:** [qgiscyprususergroup@gmail.com](mailto:qgiscyprususergroup@gmail.com)
 - **Mailing List:** [qgis-cyprus@googlegroups.com](mailto:qgis-cyprus@googlegroups.com)
-- **Facebook:** [facebook.com/qgiscyprus](https://www.facebook.com/qgiscyprus/)
+- **Facebook:** [@qgiscyprus](https://www.facebook.com/qgiscyprus/)
 - **Fosstodon:** [@qgiscyprus](https://fosstodon.org/@qgiscyprus)
-- **GitHub:** [github.com/qgiscyprus](https://github.com/qgiscyprus)
+- **GitHub:** [@QGIS-Cyprus](https://github.com/QGIS-Cyprus)
 
 ## Affiliations
 
