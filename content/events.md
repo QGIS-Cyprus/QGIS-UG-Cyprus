@@ -10,25 +10,18 @@ sidebar: true
 
 # Events
 
-Stay updated with our upcoming meetups, workshops, and conferences. Join us to learn, share, and network with fellow QGIS enthusiasts.
+Stay updated with our meetups, workshops and conferences. Join us to learn, share, and network with fellow QGIS enthusiasts across Cyprus.
 
 ## Upcoming Events
 
-{{< rich-box-start layoutClass="has-right rounded" >}}
-{{< rich-content-start themeClass="coloring-2" >}}
-### QGIS User Group Meetup (Placeholder)
+{{< rich-box-start icon="📅" layoutClass="tips">}}
+{{< rich-content-start themeClass="coloring-1" >}}
+##### No events scheduled right now
 
-When: [Date]  
-Where: [City / Online]
-
-{{< button class = "is-primary1" link = "https://usergroup.qgis.org/" text = "Learn more" >}} 
+We're working on our next meetup. [Email us](mailto:qgiscyprususergroup@gmail.com) or follow us on [Facebook](https://www.facebook.com/qgiscyprus/) / [Fosstodon](https://fosstodon.org/@qgiscyprus) to be the first to know.
 
 {{< rich-content-end >}}
-{{< rich-right-start >}}
-![](https://usergroup.qgis.org/visualization_center.webp)
-{{< rich-right-end >}}
 {{< rich-box-end >}}
-
 
 {{< columns-start >}}
 {{< column-start>}}
@@ -38,16 +31,13 @@ Where: [City / Online]
 
 ### Regular Meetups
 
-We organize regular meetups where members can:
+We organize meetups where members can:
 - Share their latest QGIS projects
 - Learn new techniques and workflows
 - Get help with QGIS challenges
 - Network with other users
 
-**When:** [Add your meeting schedule]  
-**Where:** [Add your meeting location/online platform]  
-**Registration:** [Add registration information]
-
+**Where:** Rotates across Cyprus (and online) — announced via the mailing list and social channels ahead of each meetup.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -59,7 +49,7 @@ We organize regular meetups where members can:
 
 ### Workshops & Training
 
-We regularly host hands-on workshops covering:
+We aim to host hands-on workshops covering:
 - QGIS basics for beginners
 - Advanced analysis techniques
 - Plugin development
@@ -68,7 +58,6 @@ We regularly host hands-on workshops covering:
 
 Check back regularly for upcoming workshop announcements.
 
-
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 {{< column-end >}}
@@ -76,15 +65,13 @@ Check back regularly for upcoming workshop announcements.
 
 ## Past Events
 
-[Add information about past events, presentations, or links to recordings]
-
+- **GIS Day 2021** — QGIS Cyprus members presented at the University of Cyprus conference marking GIS Day.
 
 {{< rich-box-start icon="💁" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Get Involved
 
-Want to present at our next meetup or organize an event? Contact us at [your-contact-email]
-
+Want to present at our next meetup or help organize an event? Contact us at [qgiscyprususergroup@gmail.com](mailto:qgiscyprususergroup@gmail.com)
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

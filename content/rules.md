@@ -63,8 +63,8 @@ To ensure a welcoming and productive environment for all members, we ask everyon
 ### Reporting Issues
 
 If you experience or witness behavior that violates these guidelines:
-1. Contact any board member or organizer
-2. Send an email to [conduct@example.com]
+1. Contact any coordinator or organizer
+2. Send an email to [qgiscyprususergroup@gmail.com](mailto:qgiscyprususergroup@gmail.com)
 3. All reports will be handled confidentially
 
 ### Consequences
@@ -79,8 +79,8 @@ Violations may result in:
 ### Joining
 
 - Membership is open to anyone interested in QGIS
-- No fees required (or specify if applicable)
-- Register via [registration link/process]
+- No fees required
+- Join our [mailing list](mailto:qgis-cyprus@googlegroups.com) or follow us on [Facebook](https://www.facebook.com/qgiscyprus/) to get involved
 
 ### Responsibilities
 
@@ -94,10 +94,10 @@ As a member, you are expected to:
 
 These rules may be updated from time to time. Members will be notified of significant changes.
 
-**Last updated:** [Date]
+**Last updated:** 2026-08-15
 
 ## Questions?
 
-If you have questions about these rules, contact us at [contact@example.com]
+If you have questions about these rules, contact us at [qgiscyprususergroup@gmail.com](mailto:qgiscyprususergroup@gmail.com)
 
 {{< content-end >}}

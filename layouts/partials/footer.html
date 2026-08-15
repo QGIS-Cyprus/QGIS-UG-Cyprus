@@ -184,8 +184,9 @@
             >
         </div>
     </div>
+    {{ with .Site.Params.commitfile }}
     <div class="commit-link is-size-7">
-        {{ $commit := readFile (print .Site.Params.commitFile) }}
+        {{ $commit := readFile (print .) }}
         <p>
             Commit revision:
             <a
@@ -195,4 +196,5 @@
             >
         </p>
     </div>
+    {{ end }}
 </footer>

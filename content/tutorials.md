@@ -17,9 +17,7 @@ Practical QGIS tutorials, including local data, projections, and workflows.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-- [Tutorial title] — [1–2 line summary of the tutorial and link]
-- [Tutorial title] — [1–2 line summary of the tutorial and link]
-- [Tutorial title] — [1–2 line summary of the tutorial and link]
+We're collecting tutorials — including ones covering local data, projections used in Cyprus, and common workflows. Check back soon, or contribute one yourself!
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -30,7 +28,7 @@ Practical QGIS tutorials, including local data, projections, and workflows.
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Contribute a Tutorial
 
-Send tutorials or links to [tutorials@example.com].
+Send tutorials or links to [qgiscyprususergroup@gmail.com](mailto:qgiscyprususergroup@gmail.com).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

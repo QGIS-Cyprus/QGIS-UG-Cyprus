@@ -17,9 +17,7 @@ Showcasing projects, implementations, and impact stories from the QGIS community
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-- **[Project title]** — [1–2 line summary of the outcome and location]
-- **[Project title]** — [1–2 line summary of the outcome and location]
-- **[Project title]** — [1–2 line summary of the outcome and location]
+Have a Cyprus-based QGIS project you'd like to showcase here? Get in touch — see below.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -30,7 +28,7 @@ Showcasing projects, implementations, and impact stories from the QGIS community
 {{< rich-content-start themeClass="coloring-1" >}}
 ##### Submit a Case Study
 
-Have a project to feature? Share details at [case-studies@example.com].
+Have a project to feature? Share details at [qgiscyprususergroup@gmail.com](mailto:qgiscyprususergroup@gmail.com).
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
