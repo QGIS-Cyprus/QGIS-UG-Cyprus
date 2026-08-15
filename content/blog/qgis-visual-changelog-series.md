@@ -3,9 +3,9 @@ type: "page"
 title: "The QGIS Visual Changelog Series"
 subtitle: "A video tour of every QGIS release since 3.16"
 description: "Catch up on nearly a decade of QGIS releases through the Visual Changelog video series on YouTube — one short video per release."
-date: 2025-02-24
+date: 2026-07-06
 draft: false
-thumbnail: "https://img.youtube.com/vi/v6Ejov4u7xk/hqdefault.jpg"
+thumbnail: "https://img.youtube.com/vi/5X1JKx7CXZY/hqdefault.jpg"
 ---
 
 {{< content-start >}}
@@ -18,9 +18,9 @@ The full series is available on YouTube: [QGIS Changelogs playlist](https://www.
 
 ## Latest release
 
-{{< youtube v6Ejov4u7xk >}}
+{{< youtube 5X1JKx7CXZY >}}
 
-**QGIS 3.42 Visual Changelog**
+**QGIS 4.2 Visual Changelog**
 
 ## Browse the series
 
@@ -39,6 +39,9 @@ The full series is available on YouTube: [QGIS Changelogs playlist](https://www.
 - [QGIS 3.38 Visual Changelog](https://www.youtube.com/watch?v=oktjj7xBZ54) — June 2024
 - [QGIS 3.40 Visual Changelog](https://www.youtube.com/watch?v=2Pk-etS1HNo) — November 2024
 - [QGIS 3.42 Visual Changelog](https://www.youtube.com/watch?v=v6Ejov4u7xk) — February 2025
+- [QGIS 3.44 Visual Changelog](https://www.youtube.com/watch?v=5a02yaDKAiE) — June 2025
+- [QGIS 4.0 Visual Changelog](https://www.youtube.com/watch?v=wTK1exokBA8) — March 2026
+- [QGIS 4.2 Visual Changelog](https://www.youtube.com/watch?v=5X1JKx7CXZY) — July 2026
 
 Subscribe to the [playlist](https://www.youtube.com/playlist?list=PLasF_QN6wZjRiZhNWCsxDXe2kEk6nwGIt) to catch new releases as they land, and follow [QGIS Cyprus on Facebook](https://www.facebook.com/qgiscyprus/) for more community updates.
 

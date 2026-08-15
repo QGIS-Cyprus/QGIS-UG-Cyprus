@@ -22,6 +22,12 @@ Browse the full [QGIS playlist](https://www.youtube.com/playlist?list=PLasF_QN6w
 
 **[How to add Imagery Orthophotos from DLS portal Cyprus (1963 to 2014)](https://www.youtube.com/watch?v=1i4wBGH1fBc)** — using the MapSwipe tool to bring historical Cyprus aerial imagery into QGIS.
 
+## Working with water networks: QGIS to EPANET
+
+{{< youtube smJ4772ery8 >}}
+
+**[QGIS to EPANET Input Files](https://www.youtube.com/watch?v=smJ4772ery8)** — exporting a water network from QGIS into an EPANET input file, ready for hydraulic simulation.
+
 ## More videos in the series
 
 - [How to use offline maps in QGIS](https://www.youtube.com/watch?v=B7y2HppFFjQ)
