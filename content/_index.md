@@ -9,7 +9,7 @@ HeroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
 ButtonText: "Join Us!"
-ButtonLink: "/events/"
+ButtonLink: "#join-us"
 ---
 
 {{< content-start >}}

@@ -89,7 +89,7 @@ fancy-font = "'Sevillana', cursive"
 
 ## Gh repo edit link
 ## This repo is used for the "Edit this page" link
-githubRepo = "https://github.com/qgis/QGIS-User-Group-Website/"
+githubRepo = "https://github.com/qgis/QGIS-User-Group-Website"
 githubSubdir = "content"
 githubBranch = "usergroup/cyprus"
 
