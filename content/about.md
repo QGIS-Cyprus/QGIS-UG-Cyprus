@@ -69,7 +69,21 @@ We welcome everyone interested in QGIS, from complete beginners to experienced p
 - **Learning:** We support continuous learning and knowledge sharing
 - **Contribution:** We encourage active participation and giving back to the community
 
-Interested in helping out with outreach, events, training or communications? [Get in touch](#contact-us) — we're always looking for volunteers.
+## Get Involved
+
+We welcome everyone interested in QGIS to join and contribute. There are two primary ways you can help.
+
+### Contribute Content
+
+You can submit a Case Study, Tutorial or a Blog post for the user group website. We welcome all content focused on QGIS that is relevant for users in Cyprus. Post on our [mailing list](mailto:qgis-cyprus@googlegroups.com) with a brief description of your idea to get started.
+
+### Volunteer for a Working Group
+
+You can also help with the running of the user group by volunteering for one of our working groups. We have people helping with the website, content, events, outreach and more. Write to us at [qgis-cyprus@googlegroups.com](mailto:qgis-cyprus@googlegroups.com) with your area of interest and we'll connect you with other volunteers.
+
+## Our Logo
+
+![QGIS Cyprus User Group Logo](/img/QGIS_Cyprus.png)
 
 ## Contact Us
 
