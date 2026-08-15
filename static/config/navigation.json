@@ -1,0 +1,68 @@
+{
+  "navigation": [
+    {
+      "type": "menu",
+      "settings": {
+        "name": "QGIS [Country]",
+        "children": [
+          {
+            "type": "second-menu",
+            "settings": {
+              "name": "Home",
+              "href": "/"
+            }
+          },
+          {
+            "type": "second-menu",
+            "settings": {
+              "name": "About Us",
+              "href": "/about-us/"
+            }
+          },
+          {
+            "type": "second-menu",
+            "settings": {
+              "name": "Case Studies",
+              "href": "/case-studies/"
+            }
+          },
+          {
+            "type": "second-menu",
+            "settings": {
+              "name": "Events",
+              "href": "/events/"
+            }
+          },
+          {
+            "type": "second-menu",
+            "settings": {
+              "name": "Community",
+              "href": "/community/"
+            }
+          },
+          {
+            "type": "second-menu",
+            "settings": {
+              "name": "Tutorials",
+              "href": "/tutorials/"
+            }
+          },
+          {
+            "type": "second-menu",
+            "settings": {
+              "name": "Blog",
+              "href": "/blog/"
+            }
+          },
+          {
+            "type": "second-menu",
+            "settings": {
+              "name": "Rules",
+              "href": "/rules/"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

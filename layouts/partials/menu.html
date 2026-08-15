@@ -1,0 +1,14 @@
+{{ $isLocal := (or (eq .Site.BaseURL "/") (strings.Contains .Site.BaseURL "localhost")) }}
+{{ $locationPrefix := .Site.Params.uniNavHeaderLocationPrefix }}
+{{ $logoIcon := .Site.Params.uniNavHeaderLogoIcon | default "https://qgis.org/funders/qgis-usergroup-switzerland.png" }}
+
+
+<qg-top-nav
+    breakpoint="1024"
+    class="is-highest navbar is-fixed-top"
+    location-prefix="{{ $locationPrefix }}"
+    logo-icon="{{ $logoIcon | absURL }}"
+    logo-link="{{ .Site.BaseURL }}"
+    second-menu-prefix="https://qgis.github.io/QGIS-User-Group-Website/"
+    secondary-menu-config="https://raw.githubusercontent.com/qgis/QGIS-User-Group-Website/main/static/config/navigation.json"
+></qg-top-nav>

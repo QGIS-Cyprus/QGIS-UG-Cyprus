@@ -1,0 +1,14 @@
+{{/* This is the landing page template only. See layouts/_default/single.html */}}
+{{ partial "header.html" . }}
+{{ partial "menu.html" . }}
+{{ partial "contextmenu.html" . }}
+{{ partial "banner.html" . }}
+{{ .Content }}
+{{ partial "footer.html" . }}
+
+
+<!-- See https://discourse.gohugo.io/t/how-to-set-minimum-hugo-version/44755 -->
+{{- $minHugoVersion := .Site.Params.minHugoVersion }}
+{{- if lt hugo.Version $minHugoVersion }}
+    {{- errorf "This website requires Hugo v%s or later." $minHugoVersion }}
+{{- end }}

@@ -1,0 +1,356 @@
+# May be overwritten in .github/workflows/github-pages.yml or other config files
+# Update baseURL for your specific User Group deployment
+baseURL = 'https://usergroup.qgis.org/'
+languageCode = 'en-us'
+title = 'QGIS User Group Template'
+theme = 'qgis-website-theme'
+# Default pagination.
+# Can override this when needed e.g. {{ range (.Paginator 5).Pages }}
+[pagination]
+  paginate = 50
+
+# See https://mertbakir.gitlab.io/hugo/syntax-highlighting-in-hugo/
+pygmentsUseClasses = true
+pygmentsCodefences = true
+
+
+# Folders in these folders get published automatically
+staticDir = ['static']
+
+# See https://gohugo.io/templates/robots/
+# Set it to false to create a robots.txt file without using a template.
+# The file robot.txt will be copied into the root folder when building
+# the static file
+enableRobotsTXT = false
+
+[taxonomies]
+  category = 'categories'
+  series = 'series'
+  tag = 'tags'
+  # See readme for submenu notes
+  submenu = 'submenus'
+
+[params]
+# Min hugo version
+minHugoVersion = "0.139.0"
+# Brand colours:
+primary1 = "#589632"
+primary2 = "#55828b"
+primary3 = "#395c6b"
+primary4 = "#EEE766"
+primary5 = "#93B023"
+primary6 = "#ee7913"
+primary1-invert = "#fff"
+primary2-invert = "#eeeeee"
+primary3-invert = "#eeeeee"
+primary4-invert = "#363636"
+primary5-invert = "#eeeeee"
+primary6-invert = "#fff"
+links = "#3A9800"
+# TODO update these to gradient colours like above
+complementary1 = "#93B023"
+complementary2 = "#ee7913"
+complementary3 = "#EEE766"
+complementary4 = "#93b023"
+complementary5 = "#a7cecb"
+complementary6 = "#589732"
+complementary7 = "#93B022"
+complementary8 = "#385C6B"
+light1 = "#fbfbfb"
+light2 = "#eeeeee"
+light3 = "#E7E7E7"
+dark1 = "#808080"
+dark2 = "#000"
+text-primary1 = "#002033"
+text-primary2 = "#4D6370"
+# Bulma specific colours based on our branding
+black = "#000"
+white = "#ffffff"
+grey-dark = "#444444"
+grey-darker = "#363636"
+grey-light = "#d4d4d4"
+primary = "#a7cecb"
+danger = "#ee7913"
+info = "#93b023"
+success = "#589632"
+warning = "#EEE766"
+link = "#ee7913"
+# Brand fonts to override bulma font families
+heading-font = "'Twemoji Country Flags', 'Trueno', sans-serif"
+text-font = "'Twemoji Country Flags', 'Trueno', sans-serif"
+fancy-font = "'Sevillana', cursive"
+
+## Gh repo edit link
+## This repo is used for the "Edit this page" link
+githubRepo = "https://github.com/qgis/QGIS-User-Group-Website/"
+githubSubdir = "content"
+githubBranch = "main"
+
+## Gh repo for site footer (include trailing slash)
+githubUrl = "https://github.com/qgis/QGIS-User-Group-Website/"
+## GH Repo for filing a new issue
+githubIssueUrl = "https://github.com/qgis/QGIS-User-Group-Website/issues/new/choose"
+### Edit content repo (set to automatically enter "edit" mode; this is good for "improve this page" links)
+githubEditUrl = "https://github.com/qgis/QGIS-User-Group-Website/edit/main"
+### Radius for boxes
+corner-radius = "0px"
+
+## Url to navigation web component
+uniNavHeaderUrl = 'https://qgis.github.io/qgis-uni-navigation/index.js'
+uniNavHeaderLocationPrefix = "https://qgis.org"
+
+## Url to news feed. After URL change you have to check 
+## themes/qgis-website-theme/layouts/partials/contextmenu.html 
+## file to ensure that it adresses the correct keys 
+newsfeed ='https://feed.qgis.org/?lang=en&json=1'
+
+## This will turn on Coockie popup. True to show popup
+cookiesstate = false
+
+# Matomo
+matomoURL = "//matomo.qgis.org/"
+matomoSiteId = '7'
+
+# commit hash file
+commitFile = "config/commit.toml"
+
+# This will cause html in markdown files to be rendered directly
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Syntax highlighter for code blocks
+# See https://mertbakir.gitlab.io/hugo/syntax-highlighting-in-hugo/
+[markup.highlight]
+      codeFences = true
+      guessSyntax = true
+      hl_Lines = ""
+      lineNoStart = 1
+      lineNos = false
+      lineNumbersInTable = false
+      tabWidth = 4
+      noClasses = false
+      style = "monokai"
+    
+[markup.tableOfContents]
+      endLevel = 3
+      ordered = false
+      startLevel = 2
+
+
+sectionPagesMenu = 'main'
+# See https://gohugo.io/content-management/menus/
+[menu]
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  name = "About Us"
+  url = "/about-us/"
+  weight = 20
+
+[[menu.main]]
+  name = "Case Studies"
+  url = "/case-studies/"
+  weight = 30
+
+[[menu.main]]
+  name = "Events"
+  url = "/events/"
+  weight = 40
+
+[[menu.main]]
+  name = "Community"
+  url = "/community/"
+  weight = 50
+
+[[menu.main]]
+  name = "Tutorials"
+  url = "/tutorials/"
+  weight = 60
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 70
+
+[[menu.main]]
+  name = "Rules"
+  url = "/rules/"
+  weight = 80
+
+[[menu.qgis_org]]
+  name = "Project"
+  url = "https://qgis.org/project/overview"
+  weight = 10
+  #pre = "<i class='fa-solid fa-clipboard-question mr-1'></i>"
+
+[[menu.qgis_org]]
+  parent = "Project"
+  name = "Overview"
+  url = "https://qgis.org/project/overview/"
+  weight = 10
+
+[[menu.qgis_org]]
+  parent = "Project"
+  name = "Case studies"
+  url = "https://qgis.org/project/case-studies/"
+  weight = 20
+
+[[menu.qgis_org]]
+  parent = "Project"
+  name = "Plugins"
+  url = "https://plugins.qgis.org"
+  weight = 30
+
+[[menu.qgis_org]]
+  parent = "Project"
+  name = "Visual Changelogs"
+  url = "https://qgis.org/project/visual-changelogs"
+  weight = 40
+
+
+[[menu.qgis_org]]
+  name = "Community"
+  url = "https://qgis.org/community/involve"
+  weight = 20
+
+[[menu.qgis_org]]
+  parent = "Community"
+  name = "Get involved"
+  url = "https://qgis.org/community/involve"
+  weight = 10
+
+[[menu.qgis_org]]
+  parent = "Community"
+  name = "Certification Programme"
+  url = "https://qgis.org/community/certification"
+  weight = 20
+
+[[menu.qgis_org]]
+  parent = "Community"
+  name = "QGIS Foundation"
+  url = "https://qgis.org/community/foundation"
+  weight = 30
+
+[[menu.qgis_org]]
+  parent = "Community"
+  name = "Project Organisation"
+  url = "https://qgis.org/community/organisation"
+  weight = 80
+
+
+[[menu.qgis_org]]
+  parent = "Community"
+  name = "Local User Groups"
+  url = "https://qgis.org/community/groups"
+  weight = 110
+
+  
+[[menu.qgis_org]]
+  parent = "Community"
+  name = "Members Blogs"
+  url = "https://plugins.qgis.org/planet/"
+  weight = 280
+
+[[menu.qgis_org]]
+  name = "Resources"
+  url = "https://qgis.org/resources/hub"
+  weight = 40 # Sets the menu order 
+  #pre = "<i class='fa-solid fa-handshake-angle mr-1'></i>"
+
+[[menu.qgis_org]]
+  parent = "Resources"
+  name = "Documentation"
+  url = "https://qgis.org/resources/hub"
+  weight = 5 # Sets the menu order 
+  #pre = "<i class='fa-solid fa-handshake-angle mr-1'></i>"  
+
+# Submenus are done this way: parent -> identifier
+[[menu.qgis_org]]
+  parent = "Resources"
+  name = "Installation guide"
+  url = "https://qgis.org/resources/installation-guide/"
+  weight = 10
+
+[[menu.qgis_org]]
+  parent = "Resources"
+  name = "Testing"
+  url = "https://qgis.org/resources/testing/"
+  weight = 30
+
+[[menu.qgis_org]]
+  parent = "Resources"
+  name = "Roadmap"
+  url = "https://qgis.org/resources/roadmap/"
+  weight = 40
+
+[[menu.qgis_org]]
+  parent = "Resources"
+  name = "Reports"
+  url = "https://qgis.org/resources/reports/"
+  weight = 50
+
+
+[[menu.qgis_org]]
+  parent = "Resources"
+  name = "Books"
+  url = "https://qgis.org/resources/books/"
+  weight = 90
+
+[[menu.qgis_org]]
+  parent = "Resources"
+  name = "Contact and Support"
+  url = "https://qgis.org/resources/support/"
+  weight = 100
+
+[[menu.qgis_org]]
+  parent = "Resources"
+  name = "QGIS Metrics"
+  url = "https://analytics.qgis.org"
+  weight = 180
+
+[[menu.qgis_org]]
+  parent = "Resources"
+  name = "Plugins Metrics"
+  url = "https://plugins.qgis.org/metabase/public/dashboard/7ecd345f-7321-423d-9844-71e526a454a9"
+  weight = 190
+
+[[menu.qgis_org]]
+  parent = "Resources"
+  name = "Blog"
+  url = "https://blog.qgis.org/"
+  weight = 200
+
+[[menu.qgis_org]]
+  name = "Funding"
+  url = "https://qgis.org/funding/donate"
+  #pre = "<i class='fa-solid fa-circle-down mr-1'></i>"
+  weight = 50 # Sets the menu order 
+
+[[menu.qgis_org]]
+  parent = "Funding"
+  name = "Donate"
+  url = "https://qgis.org/funding/donate"
+  #pre = "<i class='fa-solid fa-circle-down mr-1'></i>"
+  weight = 30 # Sets the menu order 
+
+[[menu.qgis_org]]
+  parent = "Funding"
+  name = "Membership"
+  url = "https://qgis.org/funding/membership"
+  weight = 230
+
+[[menu.qgis_org]]
+  parent = "Membership"
+  name = "Members"
+  url = "https://qgis.org/funding/membership/members"
+  weight = 240
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+
