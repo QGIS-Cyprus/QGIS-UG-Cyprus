@@ -83,7 +83,7 @@ You can also help with the running of the user group by volunteering for one of 
 
 ## Our Logo
 
-![QGIS Cyprus User Group Logo](/img/QGIS_Cyprus.png)
+<img src="/img/QGIS_Cyprus.png" alt="QGIS Cyprus User Group Logo" style="max-width: 200px; width: 100%; height: auto;" />
 
 ## Contact Us
 
