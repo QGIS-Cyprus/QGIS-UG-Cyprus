@@ -59,8 +59,8 @@
 
       # Homepage
       check_status "/" "200" "Homepage returns HTTP 200"
-      check_content "/" "QGIS User Group Template" "Homepage has site title"
-      check_content "/" "Welcome to the QGIS User Group" "Homepage has welcome heading"
+      check_content "/" "QGIS Cyprus" "Homepage has site title"
+      check_content "/" "Welcome to QGIS Cyprus" "Homepage has welcome heading"
 
       # Key section pages
       check_status "/about-us/" "200" "About Us page returns HTTP 200"
