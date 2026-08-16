@@ -14,7 +14,7 @@ thumbnail: "/img/cyprus-population-map-2021.jpg"
 
 Using preliminary results from the Cyprus Statistical Service, this project maps population trends across Cyprus at the enumeration-district level — built entirely in QGIS and published to the web with the [qgis2web](https://plugins.qgis.org/plugins/qgis2web/) plugin, no server-side code required.
 
-<img src="/img/cyprus-population-map-2021.jpg" alt="Interactive choropleth map of Cyprus population by district, built with QGIS and qgis2web" style="max-width: 100%; height: auto; border-radius: 4px;" />
+{{< content-image src="/img/cyprus-population-map-2021.jpg" alt="Interactive choropleth map of Cyprus population by district, built with QGIS and qgis2web" >}}
 
 - 🗺️ [Interactive map](https://cypruspopulation-map.netlify.app/) — explore the geographical distribution of the population
 - 📊 [Detailed table](https://cypruspopulation-table.netlify.app/) — figures for 2011 and 2021 side by side

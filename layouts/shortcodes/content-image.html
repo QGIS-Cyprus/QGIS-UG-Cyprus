@@ -1,0 +1,16 @@
+{{/*
+  Inline content image with a base-URL-safe src.
+
+  Raw <img src="/img/..."> in Markdown is passed through untouched by Hugo,
+  so absolute root paths break whenever the site is served under a subpath
+  (e.g. a GitHub Pages project URL without a custom domain configured).
+  relURL only honors the baseURL's subpath for paths *without* a leading
+  slash, so we strip it before resolving.
+
+  Usage:
+    {{< content-image src="/img/example.png" alt="Description" >}}
+    {{< content-image src="/img/example.png" alt="Description" style="max-width: 200px; width: 100%; height: auto;" >}}
+*/}}
+{{ $src := .Get "src" | strings.TrimPrefix "/" }}
+{{ $style := .Get "style" | default "max-width: 100%; height: auto; border-radius: 4px;" }}
+<img src="{{ relURL $src }}" alt="{{ .Get "alt" }}" style="{{ $style | safeCSS }}" />

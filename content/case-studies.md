@@ -37,7 +37,7 @@ An ongoing community project tracking water reservoir levels across Cyprus with 
 
 Following the wildfire at the Kalo Chorio (Larnaca) firing range on 27 July 2026, Copernicus Sentinel-2 imagery was analysed in QGIS to estimate the extent of the burned area — a practical example of using open Earth observation data for post-fire assessment in Cyprus.
 
-<img src="/img/larnaca-wildfire-burned-area-2026.jpg" alt="QGIS map showing the estimated burned area from the Kalo Chorio, Larnaca wildfire of 27 July 2026, based on Copernicus Sentinel-2 imagery" style="max-width: 100%; height: auto; border-radius: 4px;" />
+{{< content-image src="/img/larnaca-wildfire-burned-area-2026.jpg" alt="QGIS map showing the estimated burned area from the Kalo Chorio, Larnaca wildfire of 27 July 2026, based on Copernicus Sentinel-2 imagery" >}}
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -53,7 +53,7 @@ Following the wildfire at the Kalo Chorio (Larnaca) firing range on 27 July 2026
 
 During the 2020 COVID-19 curfew, a map of Cyprus Police checkpoint locations on the roads to and from Limassol and Paphos was published to help residents plan essential travel and stay informed of restrictions — built and shared with local media outlets to reach as many residents as possible.
 
-<img src="/img/cyprus-covid-curfew-checkpoints-map-2020.png" alt="QGIS map of Cyprus Police checkpoint locations during the 2020 COVID-19 curfew, on roads to and from Limassol and Paphos" style="max-width: 100%; height: auto; border-radius: 4px;" />
+{{< content-image src="/img/cyprus-covid-curfew-checkpoints-map-2020.png" alt="QGIS map of Cyprus Police checkpoint locations during the 2020 COVID-19 curfew, on roads to and from Limassol and Paphos" >}}
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

@@ -14,7 +14,7 @@ thumbnail: "/img/importphotos-downloads-stats.jpg"
 
 **ImportPhotos**, an open-source QGIS plugin developed by the [KIOS Research and Innovation Centre of Excellence](https://www.kios.ucy.ac.cy/) at the University of Cyprus, has now passed **500,000 downloads** with the release of **v4.0.0 — QGIS 4 Ready**.
 
-<img src="/img/importphotos-downloads-stats.jpg" alt="ImportPhotos download statistics dashboard showing downloads by country" style="max-width: 100%; height: auto; border-radius: 4px;" />
+{{< content-image src="/img/importphotos-downloads-stats.jpg" alt="ImportPhotos download statistics dashboard showing downloads by country" >}}
 
 The plugin reached 400,000 downloads with v3.0.7 in January 2025, and grew to over 500,000 by May 2026 — with downloads coming in from across the globe.
 
