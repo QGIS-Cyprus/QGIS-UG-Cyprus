@@ -88,6 +88,12 @@ At the QGIS User Conference 2025 in Norrköping, Sweden, QGIS Cyprus members pre
 - [QGIS as an Enabling Technology in Digital Twins for Critical Infrastructures](https://talks.osgeo.org/qgis-uc2025/talk/7J3BVM/)
 - [GNOSIS: The Backbone GIS-Based Ecosystem of the Cyprus Transport Networks Digital Twin](https://talks.osgeo.org/qgis-uc2025/talk/KZDT7E/)
 
+{{< content-image src="/img/qgis-uc2025-digital-twins-talk.jpg" alt="Marios Kyriakou presenting 'QGIS as an Enabling Technology in Digital Twins for Critical Infrastructures' at QGIS User Conference 2025, Norrköping" >}}
+
+{{< content-image src="/img/qgis-uc2025-gnosis-talk.jpg" alt="Andreas Georgiou presenting 'GNOSIS: The Backbone GIS-Based Ecosystem of the Cyprus Transport Networks Digital Twin' at QGIS User Conference 2025, Norrköping" >}}
+
+{{< content-image src="/img/qgis-uc2025-cyprus-team-norrkoping.jpg" alt="QGIS Cyprus members at the QGIS User Conference 2025 in Norrköping, Sweden" >}}
+
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 {{< column-end >}}
