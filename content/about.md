@@ -13,6 +13,8 @@ url: "/about-us/"
 
 QGIS Cyprus gathers the Cypriot QGIS community of users and developers, spreading knowledge of QGIS through events, meetups, hack-days, workshops and seminars. We operate as an independent, volunteer-led, vendor-neutral community — open, educational and fun, while encouraging transparency, inclusion and the promotion of Free and Open-Source Software (FOSS).
 
+**Jump to:** [Our History](#our-history) &middot; [Governance & Coordinating Committee](#governance) &middot; [Honorary Members](#honorary-members) &middot; [Get Involved](#get-involved) &middot; [Contact Us](#contact-us)
+
 ## Our History
 
 QGIS Cyprus was founded in 2019 by Marios Kyriakou, who initiated the establishment of a national QGIS community in Cyprus and created its initial public presence. Following the establishment of the initiative, George Christou played a key role in its early development by bringing together members of the Cyprus geospatial community and supporting the formation of its initial organisational structure. In 2019, the community also prepared a constitution and established a founding membership and initial organisational committee as part of an effort to register QGIS Cyprus as a scientific association in Cyprus. Although the registration was not completed, this process established the initial community and governance structure of QGIS Cyprus.
@@ -23,18 +25,28 @@ The community has maintained a public social-media presence since 2019, sharing 
 
 Recorded here for historical purposes — these roles do not constitute the current Coordinating Committee (see [Governance](#governance) below):
 
+{{< rich-box-start icon="🗂️" layoutClass="tips">}}
+{{< rich-content-start themeClass="coloring-1" >}}
+
+*Historical record — not the current committee.*
+
 - **Founder:** Marios Kyriakou
 - **President:** George Christou
 - **Vice President:** Marios Kyriakou
-- **General Secretary:** Philip Fayad
+- **General Secretary:** Philippos Fayad
 - **Organising Secretary:** George Ioannou
 - **Treasurer:** Andreas Georgiou
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
 ### Founding Membership (2019)
 
 The following members supported the 2019 attempt to establish QGIS Cyprus as an association. This list is retained solely as a historical record of the community's organisational development and does not determine membership of the current Coordinating Committee:
 
-Marios Kyriakou, George Christou, Philip Fayad, Andreas Georgiou, George Ioannou, Athina Silvestrou, Pavlos Pavlou, Alexis Augusti, Irini Christodoulou, Maria Tziakouri, Nicolas Papageorgiou, Demetris Demetriou, Konstantina Solomou, Maria Prodromou, Athos Agapiou, Milto Miltiadou, Stephanos Charalampous, Kyriaki Photiou, Stelios Chadjipetrou, Panayiotis Thrasivoulou
+Marios Kyriakou, George Christou, Philippos Fayad, Andreas Georgiou, George Ioannou, Athina Silvestrou, Pavlos Pavlou, Alexis Augusti, Irini Christodoulou, Maria Tziakouri, Nicolas Papageorgiou, Demetris Demetriou, Konstantina Solomou, Maria Prodromou, Athos Agapiou, Milto Miltiadou, Stephanos Charalampous, Kyriaki Photiou, Stelios Chadjipetrou, Panayiotis Thrasivoulou
+
+{{< content-image src="/img/qgis-cyprus-founding-members-2019.jpg" alt="QGIS Cyprus founding members, 2019" style="max-width: 700px; width: 100%; height: auto;" >}}
 
 ## Purpose and Objectives
 
@@ -52,13 +64,29 @@ QGIS Cyprus is governed by a five-member Coordinating Committee responsible for 
 
 ### Coordinating Committee (2026)
 
-- **Chair:** Marios Kyriakou
-- **Vice Chair & Strategic Partnerships Lead:** George Christou
-- **Community & Professional Engagement Lead:** Philip Fayad
-- **Technology & Open Source Lead:** George Ioannou
-- **Research & Innovation Lead:** Andreas Georgiou
+{{< rich-box-start icon="🧭" layoutClass="tips">}}
+{{< rich-content-start themeClass="coloring-1" >}}
+
+This is the current, active Coordinating Committee:
+
+- **Chair:** [Marios Kyriakou](https://www.linkedin.com/in/mariosmsk/)
+- **Vice Chair & Strategic Partnerships Lead:** [George Christou](https://cy.linkedin.com/in/geochristou)
+- **Community & Professional Engagement Lead:** [Philippos Fayad](https://cy.linkedin.com/in/philipfayad)
+- **Technology & Open Source Lead:** [George Ioannou](https://cy.linkedin.com/in/george-ioannou-1610b361)
+- **Research & Innovation Lead:** [Andreas Georgiou](https://cy.linkedin.com/in/angeocy)
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
 
 No company, university, public authority, organisation or individual exercises exclusive control over QGIS Cyprus. Following official recognition, active members will democratically nominate a QGIS.ORG Voting Member Representative on behalf of Cyprus.
+
+### Honorary Members
+
+QGIS Cyprus may recognise individuals as Honorary Members in acknowledgement of significant or long-standing contributions to QGIS Cyprus, the QGIS project, or the wider open-source geospatial community.
+
+Honorary membership is a recognition of contribution and does not constitute an elected office or confer executive authority within the Coordinating Committee. Honorary Members may continue to support and advise the community and participate in its activities.
+
+*No Honorary Members have been named yet.*
 
 ## Our Community
 

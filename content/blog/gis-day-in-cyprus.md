@@ -29,7 +29,7 @@ Also featuring a keynote from **Hans van der Kwast**, GIS and Remote Sensing exp
 
 ## GIS Day 2020 — GIS for Critical Infrastructure Monitoring
 
-QGIS Cyprus took part in "GIS for the monitoring and control of critical infrastructure systems", organised by the KIOS Research and Innovation Centre of Excellence at the University of Cyprus for GIS Day 2020, with George Ioannou and Philip Fayad representing the community.
+QGIS Cyprus took part in "GIS for the monitoring and control of critical infrastructure systems", organised by the KIOS Research and Innovation Centre of Excellence at the University of Cyprus for GIS Day 2020, with George Ioannou and Philippos Fayad representing the community.
 
 ## 5th KIOS GIS Day (2023) — Mapping Everything
 

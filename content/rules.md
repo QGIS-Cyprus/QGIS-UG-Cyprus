@@ -76,19 +76,7 @@ Violations may result in:
 
 ## Membership
 
-### Joining
-
-- Membership is open to anyone interested in QGIS
-- No fees required
-- Join our [mailing list](mailto:qgis-cyprus@googlegroups.com) or follow us on [Facebook](https://www.facebook.com/qgiscyprus/) to get involved
-
-### Responsibilities
-
-As a member, you are expected to:
-- Follow these rules and guidelines
-- Participate constructively
-- Support the group's mission
-- Contribute when able
+Membership is open to anyone interested in QGIS — no fees required. See the [Member List](/member-list/) page to join and view membership responsibilities.
 
 ## Amendments
 
